@@ -12,7 +12,8 @@ The objective of this project is to analyze an Amazon dataset to understand its 
 
 
 
-##**Results**
+**Results**
+
 Data Preprocessing: Successfully cleaned the dataset, ensuring no missing values in critical columns (user_id, product_id, rating) and correctly casting data types.
 
 **Exploratory Data Analysis:**
