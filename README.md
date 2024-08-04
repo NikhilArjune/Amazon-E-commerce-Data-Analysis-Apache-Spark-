@@ -9,3 +9,16 @@ The objective of this project is to analyze an Amazon dataset to understand its 
 **3.Exploratory Data Analysis (EDA):** Perform EDA to identify patterns, trends, and key insights within the data.
 **4.Data Visualization:** Create visualizations to effectively communicate findings and facilitate better understanding of the data.
 
+
+
+
+##**Results**
+Data Preprocessing: Successfully cleaned the dataset, ensuring no missing values in critical columns (user_id, product_id, rating) and correctly casting data types.
+
+**Exploratory Data Analysis:**
+
+Generated summary statistics for the dataset.
+
+Identified patterns in product ratings and categories.
+
+Visualized the distribution of product ratings.
